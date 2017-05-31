@@ -20,6 +20,4 @@ class Joquery {
 
 }
 
-export default function joQuery() {
-  return new Joquery();
-}
+export default (function joQuery() { return new Joquery(); }());
