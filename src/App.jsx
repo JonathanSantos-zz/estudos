@@ -4,7 +4,7 @@ import './css/pure-min.css';
 import './css/side-menu.css';
 
 class App extends Component {
-  
+
   constructor(props) {
     super(props);
 
