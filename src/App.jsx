@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import $ from 'jquery';
 import './css/pure-min.css';
 import './css/side-menu.css';
+import $ from './joquery';
 
 class App extends Component {
 
